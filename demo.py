@@ -7,5 +7,3 @@ def hii():
 
 
 print(hello())
-  
-  
